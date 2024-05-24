@@ -1,0 +1,19 @@
+body p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5rem;
+}
+
+#quoteButton{
+    width: 15rem;
+    background-color: blue;
+    cursor: unset;
+    color: white;
+}
+
+#quoteButton:hover{
+    background-color: green;
+}
